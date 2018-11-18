@@ -6,7 +6,7 @@ $ git config --global user.email 'myEmail'
 ```
 进入目标文件夹根目录，初始化git仓库
 ```shell
-$ git init
+$ git init # 创建一个git的初始化文件.git，这个文件中的config文件为git仓库的配置项
 ```
 添加欲上传的文件
 ```shell
